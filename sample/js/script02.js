@@ -2,7 +2,7 @@ $(function(){
   
   
   $("#button01").on("click",function(){
-    $("#content").text("ここになにか入れたい文章など");
+    $("#content").text("ここはニンニク健康家族");
   })
 
   $("#button02").on("click",function(){
